@@ -8,10 +8,10 @@ const ANSWERS = [
   "pantaloni",
   "vestito",
   "giacca",
-  "camicietta",
+  "camicetta",
 ];
 
-const STORAGE_KEY = "haohao-facciamo-shopping-v1";
+const STORAGE_KEY = "haohao-facciamo-shopping-v2";
 const form = document.querySelector("#dialogue-form");
 const inputs = [...form.querySelectorAll("input[type='text']")];
 const checkButton = document.querySelector("#check-answers");
